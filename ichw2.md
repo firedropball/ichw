@@ -34,7 +34,7 @@
 | 0 | 0111111 | 00000000 | +1.0 |  
 | 1 | 0111111 | 00000000 | -1.0 |  	
 | * | 0000000 | 11111111 | <img src="http://chart.googleapis.com/chart?cht=tx&chl=\pm(1-2^{-8})*2^{-62}"> |  
-| * | 0000000 | 00000001 | <img src="http://chart.googleapis.com/chart?cht=tx&chl=\pm(1-2^{−8})*2^{-62}"> |  
+| * | 0000000 | 00000001 | <img src="http://chart.googleapis.com/chart?cht=tx&chl=\pm2^{-8}*2^{-62}"> |  
 | * | 0000001 | 00000000 | <img src="http://chart.googleapis.com/chart?cht=tx&chl=\pm2^{-62}"> |  
 | * | 1111110 | 11111111 | <img src="http://chart.googleapis.com/chart?cht=tx&chl=\pm(2-2^{-8})*2^{63}"> |  
 | * | 1111111 | 00000000 | ±∞ |  
