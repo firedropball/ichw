@@ -1,3 +1,10 @@
+'''本程序用来解决在特定长宽砖上铺特定长宽砖种类，
+并可通过turtle程序来画出来选中的种类。
+
+__author__      = "Ge Feng"
+__student ID__  = "180001827"
+__institution__ = "Peking University"
+'''
 import turtle as t
 sum=0
 #使用全局变量以缓解栈溢出问题
